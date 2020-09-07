@@ -7,7 +7,7 @@ import click
 import os
 app = Flask(__name__) #定义flask的实例
 
-
+###lalall
 app.config['SECRET_KEY'] = os.getenv('SECRET_KEY', 'secret string')
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:123456@localhost:3306/test'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=True
