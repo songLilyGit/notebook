@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf2da330-4f4f-4161-b1e7-b61fa66bb728" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf2da330-4f4f-4161-b1e7-b61fa66bb728" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="151">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
@@ -42,6 +40,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,16 +82,16 @@
         <subPane>
           <expand>
             <path>
-              <item name="notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontest" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontest" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -372,7 +375,7 @@
       <workItem from="1597976719631" duration="842000" />
       <workItem from="1598057693378" duration="6640000" />
       <workItem from="1599442567040" duration="4830000" />
-      <workItem from="1599469155218" duration="6472000" />
+      <workItem from="1599469155218" duration="6773000" />
     </task>
     <task id="LOCAL-00001" summary="notebook">
       <created>1599477328131</created>
@@ -388,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599479267139</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="notebook">
+      <created>1599479396330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599479396330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30894000" />
+    <option name="totallyTimeSpent" value="31195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -406,8 +416,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27916965" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968153" visible="true" weight="0.27916965" />
+      <window_info id="Structure" order="1" sideWeight="0.50318474" side_tool="true" weight="0.27916965" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -418,7 +428,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.39726028" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3275218" />
@@ -434,6 +444,7 @@
     <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_DETAILS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -545,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="151">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
           </folding>
